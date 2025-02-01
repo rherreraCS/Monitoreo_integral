@@ -1,0 +1,92 @@
+2025-01-23 22:47:03,332 - Archivo creado: .\prueba1.txt
+2025-01-23 22:48:11,678 - Archivo modificado: .\prueba1.txt
+2025-01-23 22:48:31,931 - Archivo eliminado: .\prueba1.txt
+2025-01-23 22:49:48,497 - Archivo modificado: .\file_monitor.log
+2025-01-23 22:49:48,506 - Archivo modificado: .\file_monitor.log
+2025-01-23 23:09:37,956 - Archivo modificado: .\file_monitor.log
+2025-01-23 23:09:37,956 - Archivo modificado: .\file_monitor.log
+2025-01-23 23:09:38,965 - Archivo modificado: .\file_monitor.log
+2025-01-23 23:09:38,976 - Archivo modificado: .\file_monitor.log
+2025-01-23 23:09:38,977 - Archivo modificado: .\file_monitor.log
+2025-01-23 23:09:50,992 - Archivo modificado: .\file_monitor.log
+2025-01-23 23:09:50,993 - Archivo modificado: .\file_monitor.log
+2025-01-23 23:10:20,999 - Archivo modificado: .\file_monitor.log
+2025-01-23 23:10:21,000 - Archivo modificado: .\file_monitor.log
+2025-01-23 23:12:55,329 - Archivo modificado: .\file_monitor.log
+2025-01-23 23:12:55,329 - Archivo modificado: .\file_monitor.log
+2025-01-23 23:39:37,007 - Archivo modificado: .\file_monitor.log
+2025-01-23 23:39:37,008 - Archivo modificado: .\file_monitor.log
+2025-01-23 23:40:50,044 - Archivo creado: .\2Principal.py
+2025-01-23 23:40:50,044 - Archivo modificado: .\2Principal.py
+2025-01-23 23:42:47,592 - Archivo modificado: .\2Principal.py
+2025-01-23 23:43:38,674 - Archivo modificado: .\file_monitor.log
+2025-01-23 23:52:40,042 - Archivo modificado: .\2Principal.py
+2025-01-23 23:54:10,589 - Archivo creado: .\prueba2.txt
+2025-01-24 00:01:45,580 - Archivo creado: .\3Principal.py
+2025-01-24 00:12:46,223 - Archivo creado: .\prueba4.txt
+2025-01-24 00:15:18,141 - Archivo creado: .\prueba5.txt
+2025-01-24 00:39:37,846 - Archivo modificado: .\file_monitor.log
+2025-01-24 00:39:39,912 - Archivo modificado: .\file_monitor.log
+2025-01-24 01:09:37,198 - Archivo modificado: .\file_monitor.log
+2025-01-24 01:09:39,229 - Archivo modificado: .\file_monitor.log
+2025-01-25 17:40:07,725 - Archivo modificado: .\file_monitor.log
+2025-01-25 17:40:10,039 - Archivo modificado: .\file_monitor.log
+2025-01-25 18:10:07,767 - Archivo modificado: .\file_monitor.log
+2025-01-25 18:10:10,015 - Archivo modificado: .\file_monitor.log
+2025-01-25 18:23:50,138 - Archivo creado: .\4Principal.py
+2025-01-25 18:23:52,016 - Archivo modificado: .\4Principal.py
+2025-01-25 18:24:16,372 - Archivo modificado: .\4Principal.py
+2025-01-25 18:26:09,689 - Archivo creado: C:\Users\Ramon\proyecto1\privado\prueba1.txt
+2025-01-25 18:28:35,837 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba1.txt
+2025-01-25 18:30:00,444 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba1.txt
+2025-01-25 18:32:05,085 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba1.txt
+2025-01-25 18:34:06,652 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba1.txt
+2025-01-25 18:34:10,628 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba1.txt
+2025-01-26 00:19:12,905 - Archivo creado: C:\Users\Ramon\proyecto1\privado\prueba2.txt
+2025-01-26 00:19:16,935 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba2.txt
+2025-01-26 00:41:53,249 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba2.txt
+2025-01-26 00:41:53,807 - Error al enviar correo: 401 - Forbidden
+2025-01-26 01:22:37,864 - Archivo creado: C:\Users\Ramon\proyecto1\privado\prueba3.txt
+2025-01-26 01:22:37,864 - Archivo creado: C:\Users\Ramon\proyecto1\privado\prueba3.txt
+2025-01-26 01:22:38,375 - Error al enviar correo: 401 - Forbidden
+2025-01-26 01:22:50,419 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba3.txt
+2025-01-26 01:22:50,419 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba3.txt
+2025-01-26 01:22:50,879 - Error al enviar correo: 401 - Forbidden
+2025-01-26 01:29:11,165 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba3.txt
+2025-01-26 01:29:11,667 - Error al enviar correo: 401 - Forbidden
+2025-01-26 01:39:52,196 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba3.txt
+2025-01-26 01:39:52,196 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba3.txt
+2025-01-26 01:39:52,704 - Error al enviar correo: 401 - Forbidden
+2025-01-27 00:18:08,969 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba3.txt
+2025-01-27 00:18:08,969 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba3.txt
+2025-01-27 00:18:09,403 - Error al enviar correo: 401 - Forbidden
+2025-01-27 00:18:14,117 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba3.txt
+2025-01-27 00:18:14,436 - Error al enviar correo: 401 - Forbidden
+2025-01-27 00:18:31,332 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba3.txt
+2025-01-27 00:19:29,994 - Archivo creado: C:\Users\Ramon\proyecto1\privado\prueba4.txt
+2025-01-27 00:19:29,994 - Archivo creado: C:\Users\Ramon\proyecto1\privado\prueba4.txt
+2025-01-27 00:19:30,323 - Error al enviar correo: 401 - Forbidden
+2025-01-27 00:29:21,986 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba4.txt
+2025-01-27 00:29:21,986 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba4.txt
+2025-01-27 00:29:22,474 - Error al enviar correo: 401 - Forbidden
+2025-01-27 00:40:03,423 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba4.txt
+2025-01-27 00:40:03,423 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba4.txt
+2025-01-27 00:40:03,935 - Error al enviar correo: 401 - Forbidden
+2025-01-29 01:26:24,453 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba4.txt
+2025-01-29 01:26:24,454 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba4.txt
+2025-01-29 01:26:25,027 - Error al enviar correo: 401 - Forbidden
+2025-01-29 01:26:30,499 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba4.txt
+2025-01-29 01:26:30,976 - Error al enviar correo: 401 - Forbidden
+2025-01-29 01:28:21,215 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba4.txt
+2025-01-29 01:28:54,339 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba4.txt
+2025-01-29 01:28:54,801 - Error al enviar correo: 401 - Forbidden
+2025-01-29 01:34:00,365 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba3.txt
+2025-01-29 01:34:00,909 - Error al enviar correo: 401 - Forbidden
+2025-01-29 01:35:02,619 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba4.txt
+2025-01-29 01:35:02,619 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba4.txt
+2025-01-29 01:35:03,070 - Error al enviar correo: 401 - Forbidden
+2025-01-29 01:35:12,243 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba4.txt
+2025-01-29 01:35:12,705 - Error al enviar correo: 401 - Forbidden
+2025-01-29 01:35:22,020 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba4.txt
+2025-01-29 01:35:22,481 - Error al enviar correo: 401 - Forbidden
+2025-01-29 01:35:56,134 - Archivo modificado: C:\Users\Ramon\proyecto1\privado\prueba4.txt

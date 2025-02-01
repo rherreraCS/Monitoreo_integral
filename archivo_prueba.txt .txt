@@ -1,0 +1,3 @@
+Este es un archivo de prueba.
+Contiene la cadena maliciosa: malicious_string
+Aquí hay una secuencia de bytes: \xE2\x34\xA1\xC8
