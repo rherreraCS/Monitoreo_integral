@@ -1,0 +1,2 @@
+el ultimo archivo editado es el 16principal.py si hubiera un numero mas grande seria ese, update_rules.py es para descargar automaticamente reglas yara, los numeros mas altos como update_rules2.py son archivos mas antiguos. 
+proyecto1 es la carpeta que monitoreo en mi pc y reglas_yara es donde estan las reglas yara. 
